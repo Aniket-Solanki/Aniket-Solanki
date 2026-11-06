@@ -1,0 +1,17 @@
+name: Validate Profile
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check README exists
+        run: test -f README.md && echo "README.md present"
+      - name: Check profile structure
+        run: ls -la
