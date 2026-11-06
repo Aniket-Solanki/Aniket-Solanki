@@ -70,17 +70,6 @@ I'm a **Full-Stack Developer** based in Vadodara, Gujarat, passionate about buil
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ [CyberGuard](https://github.com/Aniket-Solanki/CyberGuard)
-**Cybersecurity Risk Assessment Platform**
-- CIA triad scoring (Confidentiality, Integrity, Availability)
-- What-If scenario analysis for risk mitigation
-- Attack path visualization with MITRE ATT&CK mapping
-- Next.js 14, TypeScript, Tailwind, Zustand
-- **Status**: Active development
-
-</td>
-<td width="50%" valign="top">
-
 ### 🌐 [Aniket-Solanki-Portfolio](https://github.com/Aniket-Solanki/Aniket-Solanki-Portfolio)
 **Personal Portfolio Website**
 - Modern Next.js 14 with App Router
@@ -90,8 +79,6 @@ I'm a **Full-Stack Developer** based in Vadodara, Gujarat, passionate about buil
 - **Live**: [aniket-solanki.vercel.app](https://aniket-solanki.vercel.app)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🤖 [Aniket-s-Ai (CortexAlpha)](https://github.com/Aniket-Solanki/Aniket-s-Ai)
@@ -101,17 +88,6 @@ I'm a **Full-Stack Developer** based in Vadodara, Gujarat, passionate about buil
 - Session persistence & branching
 - Next.js, TypeScript, Vercel AI SDK
 - **Status**: Active development
-
-</td>
-<td width="50%" valign="top">
-
-### 📈 [Sales-Forecasting-Dashboard](https://github.com/Aniket-Solanki/Sales-Forecasting-Dashboard-Using-Machine-Learning)
-**ML-Powered Sales Forecasting**
-- Time-series forecasting with Python/Scikit-learn
-- Interactive React dashboard with charts
-- Automated model training pipeline
-- TypeScript, Next.js, Python microservices
-- **Status**: Complete
 
 </td>
 </tr>
@@ -135,6 +111,30 @@ I'm a **Full-Stack Developer** based in Vadodara, Gujarat, passionate about buil
 - Command history, tab completion
 - Themes, animations, easter eggs
 - Next.js, TypeScript, xterm.js
+- **Status**: Active development
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📈 [Sales-Forecasting-Dashboard](https://github.com/Aniket-Solanki/Sales-Forecasting-Dashboard-Using-Machine-Learning)
+**ML-Powered Sales Forecasting**
+- Time-series forecasting with Python/Scikit-learn
+- Interactive React dashboard with charts
+- Automated model training pipeline
+- TypeScript, Next.js, Python microservices
+- **Status**: Complete
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ [CyberGuard](https://github.com/Aniket-Solanki/CyberGuard)
+**Cybersecurity Risk Assessment Platform**
+- CIA triad scoring (Confidentiality, Integrity, Availability)
+- What-If scenario analysis for risk mitigation
+- Attack path visualization with MITRE ATT&CK mapping
+- Next.js 14, TypeScript, Tailwind, Zustand
 - **Status**: Active development
 
 </td>
