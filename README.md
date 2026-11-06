@@ -118,13 +118,14 @@ I'm a **Full-Stack Developer** based in Vadodara, Gujarat, passionate about buil
 <tr>
 <td width="50%" valign="top">
 
-### 📈 [Sales-Forecasting-Dashboard](https://github.com/Aniket-Solanki/Sales-Forecasting-Dashboard-Using-Machine-Learning)
-**ML-Powered Sales Forecasting**
-- Time-series forecasting with Python/Scikit-learn
-- Interactive React dashboard with charts
-- Automated model training pipeline
-- TypeScript, Next.js, Python microservices
-- **Status**: Complete
+### 🛡️ [ShieldDroid](https://github.com/Aniket-Solanki/ShieldDroid)
+**WebUSB ADB Security Auditor for Android**
+- USB/Wireless debugging detection & mitigation
+- Device vitals: SELinux, encryption, root status
+- Network exposure scanning (netstat, /proc/net/tcp)
+- Real-time console with timestamped logs
+- Vite, Vanilla JS, @yume-chan/adb
+- **Status**: Active development
 
 </td>
 <td width="50%" valign="top">
