@@ -15,7 +15,7 @@
 I'm a **Full-Stack Developer** based in Vadodara, Gujarat, passionate about building **developer tools** and **SaaS products** that solve real problems. Currently committing 50-60 hrs/week to building technical products with a co-founder.
 
 - 🔭 **Currently building**: [API Typist](https://github.com/Aniket-Solanki/API-Typist) — TypeScript codegen from JSON/OpenAPI/GraphQL (IR-first architecture)
-- 🛡️ **Security tooling**: [ShieldDroid](https://github.com/Aniket-Solanki/gaynigga) — WebUSB ADB security auditor for Android devices
+- 🛡️ **Security tooling**: [ShieldDroid](https://github.com/Aniket-Solanki/ShieldDroid) — WebUSB ADB security auditor for Android devices
 - 🧠 **AI/Chat**: [CortexAlpha](https://github.com/Aniket-Solanki/Aniket-s-Ai) — Multi-session chat with Hydra Protocol & artifact support
 - 🎯 **Focus**: TypeScript (strict), React/Next.js, Node.js, developer experience, CLI tools
 
@@ -148,7 +148,7 @@ I'm a **Full-Stack Developer** based in Vadodara, Gujarat, passionate about buil
 | Project | Description | Stack | Status |
 |---------|-------------|-------|--------|
 | [API-Typist](https://github.com/Aniket-Solanki/API-Typist) | TypeScript codegen from JSON/OpenAPI/GraphQL (IR-first) | TS, Node, Vitest | Active |
-| [ShieldDroid](https://github.com/Aniket-Solanki/gaynigga) | WebUSB ADB security auditor for Android | JS, Vite, @yume-chan/adb | Active |
+| [ShieldDroid](https://github.com/Aniket-Solanki/ShieldDroid) | WebUSB ADB security auditor for Android | JS, Vite, @yume-chan/adb | Active |
 | [Auto-Dealership](https://github.com/Aniket-Solanki/Auto-Dealership) | Dealership management system | Next.js, Prisma, PostgreSQL | Active |
 | [Next-Gen-Portfolio](https://github.com/Aniket-Solanki/Next-Gen-Portfolio) | AI-enhanced portfolio with 3D scenes | Next.js, Three.js, Genkit | Active |
 | [Free-UnsecuredApis-Finder](https://github.com/Aniket-Solanki/Free-UnsecuredApis-Finder) | Curated free APIs without auth | JS, Node | Maintained |
